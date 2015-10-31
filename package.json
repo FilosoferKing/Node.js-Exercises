@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-test-app",
+  "version": "1.0.0",
+  "description": "NodeJS Test App",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilosoferKing/Node.js-Exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FilosoferKing/Node.js-Exercises/issues"
+  },
+  "homepage": "https://github.com/FilosoferKing/Node.js-Exercises#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "moment": "^2.10.6"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
